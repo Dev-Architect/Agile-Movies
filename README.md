@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Agile Movies))</h1>
+<h1 align="center">Agile Movies</h1>
 
 
 [ 🚧 Work in progress ]
