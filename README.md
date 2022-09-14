@@ -1,5 +1,4 @@
 # Agile-Movies
-Agile Movies demonstrate Agile methodology project management 
 
 <h1 align="center">Agile-Movies Agile Movies demonstrate Agile methodology project management :))</h1>
 
